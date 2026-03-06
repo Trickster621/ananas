@@ -2,7 +2,7 @@ import telebot
 import random
 
 # Вставь сюда свой токен от BotFather
-TOKEN = '8621599669:AAFG-Ac-wqF9prAD3KgL-0rjUxB2OvNVEck'
+TELEGRAM_BOT_TOKEN = 'TELEGRAM_BOT_TOKEN'
 
 bot = telebot.TeleBot(TOKEN)
 
